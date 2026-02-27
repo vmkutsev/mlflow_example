@@ -1,5 +1,4 @@
 params:
-  penalty: l2
-  C: 0.9
-  solver: lbfgs
-  max_iter: 1000
+  model_type: RandomForestClassifier
+  n_estimators: 100
+  max_depth: null

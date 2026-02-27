@@ -1,5 +1,8 @@
 params:
   metrics:
-      - accuracy
-      - f1
-      - roc_auc
+    - accuracy
+    - precision
+    - recall
+    - f1
+    - roc_auc
+    - pr_auc
