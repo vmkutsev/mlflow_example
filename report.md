@@ -1,8 +1,8 @@
-# Отчёт по экспериментам — homework_student27
+# Отчёт по экспериментам
 
 **Датасет:** Adult Census Income (`scikit-learn/adult-census-income`)  
 **Задача:** бинарная классификация (доход >50K или ≤50K)  
-**Эксперимент в MLflow:** [`homework_student27`](http://158.160.2.37:5000/#/experiments/35)  
+**Эксперимент в MLflow:** [`homework_kutsev`](http://158.160.2.37:5000/#/experiments/35)  
 **Ключевая метрика:** ROC-AUC
 
 ---
